@@ -1,0 +1,23 @@
+{
+  "name": "-nodejs_express_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/RetrodanielKR/-NodeJS_Express_Mongo.git)"
+  },
+  "keywords": [
+    "NodeJs",
+    "Express",
+    "MongoDB",
+    "API",
+    "REST",
+    "Backend"
+  ],
+  "author": "Jorge Andres Urmendez y Daniel Santiago Olarte",
+  "license": "ISC"
+}
